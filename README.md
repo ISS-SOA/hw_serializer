@@ -12,14 +12,16 @@ Assignment:
 Write a simple application that can converts a spreadsheet of students programming skills (TSV file: tab separated columns) into a YAML file.
 Then write a simple application converts a YAML file back into a TSV file.
 
-## TSV_to_YAML:
-Create an application file: TSV_to_YAML.rb
+## TSV to YAML:
+Create an application file: tsv_to_yml.rb
 Your YAML output should be saved into a YAML file of the user's choosing.
 Let your Ruby program takes the name of input and output files from command line parameters:
 
-e.g., in Unix, you should be able to do:  `$  ruby TSV_to_YAML in_filename.tsv out_filename.yml`
+You would run it like this:
 
-You can access command line parameters using the ARGV array: `ARGV[0]`, `ARGV[1]`, etc.
+`$  ruby TSV_to_YAML infile.tsv outfile.yml`
+
+You can access command line parameters using the ARGV array (`ARGV[0]`, `ARGV[1]`).
 
 If the user does not supply an output filename, please print output to screen.
 
@@ -35,8 +37,10 @@ If you have done this correctly, each student in your output should look somethi
  tech_experience: Unix-based OS, Database, Regular Expressions, Web Design
 ```
 
-## YAML_to_TSV:
-Create another application that can converts a YAML skills file into a TSV file!
+## YAML to TSV:
+Create another application that can converts a YAML skills file into a TSV file. You would run it like this:
+
+`$  ruby yml_to_tsv infile.yml outfile.tsv`
 
 Your generated TSV file should have the correct header information in the top row.
 
