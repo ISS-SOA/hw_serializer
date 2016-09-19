@@ -16,10 +16,6 @@ describe 'Serializer specs' do
     tsv_output.count.must_equal(TEST_RECORDS + 1)
   end
 
-  it `should roundtrip results` do
-
-  end
-
   after do
     `rm *.tsv2 > /dev/null 2>&1; rm *.yml2 > /dev/null 2>&1`
   end

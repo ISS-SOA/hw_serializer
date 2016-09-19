@@ -1,57 +1,54 @@
 # Serialization Showdown
 
-## Download data
+## Download files
 
-Download spreadsheet of student programming skills: `programmers_survey_2014.tsv`
+*Do not fork this repo! Do not submit a Github repo URL as your solution! Please read all the following instructions before starting.*
 
-Once you get to the Github page, you have to click the 'raw' button and download the file)
-if your browser thinks this is a 'webarchive' file, please choose the format as 'page source' in the download options
-this file has lines separated by newline characters ("\n") and each line has columns separated by tab characters ("\t")
-Assignment:
+Download all the files in this repository using the green 'Clone or download' button. You may download the whole repo as a ZIP file and then unzip it in your working directory.
 
-Write a simple application that can converts a spreadsheet of students programming skills (TSV file: tab separated columns) into a YAML file.
-Then write a simple application converts a YAML file back into a TSV file.
+**Assignment:**
+You will write two small ruby applications in this assignment. First, write a simple application that convert a TSV (tab seperated data file) into a YAML file. Second, write a simple application converts a YAML file back into a TSV file. Take a look at the two files called `programmers_survey_2014.*` to see examples of these two file formats. As you might guess, this is data from SOA students in 2014.
 
 ## 1. TSV to YAML:
 Create an application file: tsv_to_yml.rb
-Your YAML output should be saved into a YAML file of the user's choosing.
+This file should have a script that converts a TSV file into a YAML file. Your YAML output should be saved into a YAML file of the user's choosing.
 Let your Ruby program takes the name of input and output files from command line parameters:
 
 You would run it like this:
 
-`$  ruby TSV_to_YAML infile.tsv outfile.yml`
+`$  ruby tsv_to_yml.rb programmers_survey_2014.tsv outfile.yml`
 
-You can access command line parameters using the ARGV array (`ARGV[0]`, `ARGV[1]`).
+You can access command line parameters using the `ARGV` array (`ARGV[0]`, `ARGV[1]`).
 
 If the user does not supply an output filename, please print output to screen.
 
-You must submit your code as a Gist URL (use gist.github.com)
 If you have done this correctly, each student in your output should look something like:
 ```
 - date: 9/12/2014 20:20:55
  student_id: '1634'
  languages: 'Java, C , HTML , JavaScript , '
  best_language: Java
- app_experience: Native GUI applications, Web Applications, Mobile Applications,
- Database Driven Applications
+ app_experience: Native GUI applications, Web Applications, ...
  tech_experience: Unix-based OS, Database, Regular Expressions, Web Design
 ```
+
+You must submit your ruby file as a Gist URL (use gist.github.com).
 
 ## 2. YAML to TSV:
 Create another application that can converts a YAML skills file into a TSV file. You would run it like this:
 
-`$  ruby yml_to_tsv infile.yml outfile.tsv`
+`$  ruby yml_to_tsv.rb programmers_survey_2014.yml outfile.tsv`
 
 Your generated TSV file should have the correct header information in the top row.
 
+You must submit your ruby file as a Gist URL (use gist.github.com).
+
 ## 3. Testing
 
-Double-check that your TSV and YAML files convert into each other. This is called round-tripping. I've provided two sample files called `programmers_survey_2014.csv` and `programmers_survey_2014.tsv` -- as you might guess, this is data from the SOA class survey taken in 2014.
-
-To run automated tests on your code, you may do the following from command line, in the directory with all the files:
+Throughout your coding, you should run automated tests on your code, you may do the following from command line, in the directory with all the files:
 ```
 $ bundle install
-(only need to run this once; bundle should report sucess)
+(only need to run this once; bundle should report success)
 
 $ ruby serializer_spec.rb
 Run options: --seed 22740
@@ -66,4 +63,4 @@ Finished in 0.208241s, 9.6043 runs/s, 9.6043 assertions/s.
 
 ```
 
-Submit links to the two code files (gist) in the assignment submission form on Canvas
+Submit gist links to the two ruby files you created in the assignment submission form on Canvas.
