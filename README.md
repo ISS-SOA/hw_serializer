@@ -7,7 +7,7 @@
 Download all the files in this repository using the green 'Clone or download' button. You may download the whole repo as a ZIP file and then unzip it in your working directory.
 
 **Assignment:**
-You will write two small ruby applications in this assignment. First, write a simple application that convert a TSV (tab seperated data file) into a YAML file. Second, write a simple application converts a YAML file back into a TSV file. Take a look at the two files called `programmers_survey_2014.*` to see examples of these two file formats. As you might guess, this is data from SOA students in 2014.
+You will write two small ruby applications in this assignment. First, write a simple application that convert a TSV (tab separated data file) into a YAML file. Second, write a simple application converts a YAML file back into a TSV file. Take a look at the two files called `programmers_survey_2014.*` to see examples of these two file formats. As you might guess, this is data from SOA students in 2014.
 
 ## 1. TSV to YAML:
 Create an application file: tsv_to_yml.rb
