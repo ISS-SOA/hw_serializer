@@ -2,12 +2,11 @@
 
 ## Download files
 
-*Do not fork this repo! Do not submit a Github repo URL as your solution! Please read all the following instructions before starting.*
-
 Download all the files in this repository using the green 'Clone or download' button. You may download the whole repo as a ZIP file and then unzip it in your working directory.
 
 **Assignment:**
-You will write two small ruby applications in this assignment. First, write a simple application that convert a TSV (tab separated data file) into a YAML file. Second, write a simple application converts a YAML file back into a TSV file. Take a look at the two files called `programmers_survey_2014.*` to see examples of these two file formats. As you might guess, this is data from SOA students in 2014.
+
+You will write two small ruby applications in this assignment. First, write a simple application that convert a spreadsheet of students programming skills (TSV file: tab separated columns) into a YAML file. Second, write a simple application converts a YAML file back into a TSV file. Take a look at the two files called `programmers_survey_2014.*` to see examples of these two file formats. Please read all the following instructions before starting.
 
 ## 1. TSV to YAML:
 Create an application file: tsv_to_yml.rb
@@ -28,11 +27,12 @@ If you have done this correctly, each student in your output should look somethi
  student_id: '1634'
  languages: 'Java, C , HTML , JavaScript , '
  best_language: Java
- app_experience: Native GUI applications, Web Applications, ...
+ app_experience: Native GUI applications, Web Applications, Mobile Applications,
+ Database Driven Applications
  tech_experience: Unix-based OS, Database, Regular Expressions, Web Design
 ```
 
-You must submit your ruby file as a Gist URL (use gist.github.com).
+You must submit your code file as a Gist URL (use gist.github.com).
 
 ## 2. YAML to TSV:
 Create another application that can converts a YAML skills file into a TSV file. You would run it like this:
@@ -41,7 +41,7 @@ Create another application that can converts a YAML skills file into a TSV file.
 
 Your generated TSV file should have the correct header information in the top row.
 
-You must submit your ruby file as a Gist URL (use gist.github.com).
+You must submit your code file as a Gist URL (use gist.github.com).
 
 ## 3. Testing
 
@@ -63,4 +63,4 @@ Finished in 0.208241s, 9.6043 runs/s, 9.6043 assertions/s.
 
 ```
 
-Submit gist links to the two ruby files you created in the assignment submission form on Canvas.
+Submit links to the two code files (gist) in the assignment submission form on Canvas
