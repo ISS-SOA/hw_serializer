@@ -1,0 +1,208 @@
+---
+- date: 8/30/2017 15:40:19
+  student_id: '3522933'
+  languages: Java, C#, C++, Python, Javascript, Oz, Racket Lang, Go Lang, Php, Hack
+    lang, Ruby on Rails
+  best_language: Javascript, PHP, Phyton, C#, Java
+  app_experience: Command line Apps, Desktop GUI Apps, Web Front-end Apps, Web Back-end
+    Apps, Mobile Apps, Maths/Statistics Coding, Database Driven Apps
+  tech_experience: Command Line, Version Control, Database, Software Testing, Web
+    Design, Cloud Platforms, Regular Expressions
+- date: 8/30/2017 16:19:10
+  student_id: '1804923'
+  languages: python, c++, ruby
+  best_language: python, ruby
+  app_experience: Command line Apps, Server-side Apps, Maths/Statistics Coding, Database
+    Driven Apps
+  tech_experience: Command Line, Version Control, Database, Web Design, Cloud Platforms,
+    Regular Expressions
+- date: 8/30/2017 16:44:10
+  student_id: '2590564'
+  languages: 'Html, php, JavaScript, python, C, ruby, python , nodejs '
+  best_language: Python , nodejs, JavaScript , html
+  app_experience: Web Front-end Apps, Web Back-end Apps, Server-side Apps, Mobile
+    Apps
+  tech_experience: Command Line, Version Control, Database, Web Design, Cloud Platforms
+- date: 8/30/2017 17:00:37
+  student_id: '1015278'
+  languages: C, C#, R
+  best_language: R
+  app_experience: Command line Apps, Maths/Statistics Coding
+  tech_experience: Database
+- date: 8/30/2017 23:49:49
+  student_id: '1756576'
+  languages: Java, PHP, Python, Javascript, VB.Net, C, C++, Ruby
+  best_language: Java, PHP, Python, Javascript, VB.Net, C, C++, Ruby
+  app_experience: Command line Apps, Desktop GUI Apps, Web Back-end Apps, Mobile Apps
+  tech_experience: Command Line, Version Control, Database, Software Testing, Web
+    Design, Cloud Platforms, Regular Expressions
+- date: 8/31/2017 2:07:11
+  student_id: '4867368'
+  languages: 'C, C++, R, VBA, '
+  best_language: C++
+  app_experience: Maths/Statistics Coding
+  tech_experience: Database, Web Design, Regular Expressions
+- date: 8/31/2017 4:23:58
+  student_id: '5435677'
+  languages: Javascript, Python, Java, Swift
+  best_language: Python
+  app_experience: Web Front-end Apps, Web Back-end Apps, Server-side Apps, Mobile
+    Apps
+  tech_experience: Command Line, Version Control, Database, Web Design, Cloud Platforms
+- date: 8/31/2017 5:33:28
+  student_id: '6844973'
+  languages: 'c  Java Javascript python swift '
+  best_language: python
+  app_experience: Command line Apps, Desktop GUI Apps, Web Back-end Apps, Mobile Apps,
+    Maths/Statistics Coding, IoT Apps
+  tech_experience: Command Line, Version Control, Web Design, Cloud Platforms
+- date: 8/31/2017 16:41:18
+  student_id: '8496675'
+  languages: C, Python
+  best_language: C, Python
+  app_experience: Command line Apps, Desktop GUI Apps, Mobile Apps, IoT Apps
+  tech_experience: Command Line, Version Control, Database, Cloud Platforms
+- date: 9/3/2017 21:57:07
+  student_id: '6289571'
+  languages: Javascript,java,php
+  best_language: javascript
+  app_experience: Web Front-end Apps, Web Back-end Apps
+  tech_experience: Version Control, Database, Web Design
+- date: 9/4/2017 11:13:58
+  student_id: '8405610'
+  languages: Python, C++, SQL, HTML, CSS,  Javascript
+  best_language: C++, Python
+  app_experience: Web Front-end Apps, Maths/Statistics Coding
+  tech_experience: Database, Web Design
+- date: 9/4/2017 15:19:41
+  student_id: '7917660'
+  languages: C,C++,Javascript,Java,html,php
+  best_language: C
+  app_experience: Web Front-end Apps, Mobile Apps, IoT Apps
+  tech_experience: Command Line, Version Control, Database, Web Design, Cloud Platforms
+- date: 9/4/2017 16:13:13
+  student_id: '8063047'
+  languages: C, C++, Python, Java, GO, Swift
+  best_language: C, C++, Python
+  app_experience: Command line Apps, Desktop GUI Apps, Web Front-end Apps, Mobile
+    Apps
+  tech_experience: Command Line, Version Control, Web Design, Cloud Platforms, Regular
+    Expressions
+- date: 9/5/2017 14:20:13
+  student_id: '368031'
+  languages: 'Java, C#, Python, Javascript, PHP, C++, Scala, Ruby, '
+  best_language: Python, Javascript, Java, Ruby
+  app_experience: Command line Apps, Web Front-end Apps, Web Back-end Apps, Server-side
+    Apps, Maths/Statistics Coding, Database Driven Apps
+  tech_experience: Command Line, Version Control, Database, Web Design, Cloud Platforms,
+    Regular Expressions
+- date: 9/5/2017 15:24:43
+  student_id: '7885330'
+  languages: C, C++, Python
+  best_language: C
+  app_experience: Maths/Statistics Coding
+  tech_experience: Web Design
+- date: 9/5/2017 16:15:57
+  student_id: '9443193'
+  languages: C,php
+  best_language: C
+  app_experience: Desktop GUI Apps, Database Driven Apps
+  tech_experience: Command Line, Database, Web Design
+- date: 9/5/2017 19:52:27
+  student_id: '7818235'
+  languages: Python, Javascript
+  best_language: Javascript
+  app_experience: Command line Apps, Mobile Apps
+  tech_experience: Web Design
+- date: 9/6/2017 0:01:52
+  student_id: '3379985'
+  languages: Java, C#, VB, HTML, CSS, Javascript, PHP, Angular
+  best_language: PHP, Javascript
+  app_experience: Command line Apps, Desktop GUI Apps, Web Front-end Apps, Web Back-end
+    Apps, Server-side Apps, Database Driven Apps
+  tech_experience: Command Line, Version Control, Database, Web Design
+- date: 9/6/2017 18:13:07
+  student_id: '6996686'
+  languages: C, Python, Verilog, Matlab, C++
+  best_language: Matlab
+  app_experience: Command line Apps, Mobile Apps
+  tech_experience: Command Line
+- date: 9/6/2017 23:43:51
+  student_id: '6068165'
+  languages: Java, Python, C, Javascript, R, C#
+  best_language: Java
+  app_experience: Desktop GUI Apps, Web Front-end Apps, Web Back-end Apps, Server-side
+    Apps, Mobile Apps
+  tech_experience: Command Line, Database, Web Design, Regular Expressions
+- date: 9/7/2017 0:39:10
+  student_id: '3841460'
+  languages: Java, C#, Python, Javascript, VB, Html
+  best_language: Java
+  app_experience: Desktop GUI Apps, Web Front-end Apps, Web Back-end Apps, Server-side
+    Apps, Mobile Apps, Database Driven Apps, IoT Apps
+  tech_experience: Command Line, Version Control, Database, Web Design, Cloud Platforms,
+    Regular Expressions
+- date: 9/7/2017 21:51:06
+  student_id: '1916423'
+  languages: java, c
+  best_language: c
+  app_experience: Command line Apps
+  tech_experience: Command Line
+- date: 9/10/2017 0:00:25
+  student_id: '202130'
+  languages: c, c++, java, python
+  best_language: c, python
+  app_experience: Command line Apps, Desktop GUI Apps, Maths/Statistics Coding, IoT
+    Apps
+  tech_experience: Command Line, Database, Cloud Platforms
+- date: 9/10/2017 15:31:27
+  student_id: '7610144'
+  languages: java, php
+  best_language: Java
+  app_experience: Web Front-end Apps, Web Back-end Apps, Mobile Apps
+  tech_experience: Database, Web Design
+- date: 9/11/2017 20:31:44
+  student_id: '5554724'
+  languages: Java, C#, Ruby, C++, SQL, Assembly, HTML, PHP, Python
+  best_language: Ruby
+  app_experience: Desktop GUI Apps, Mobile Apps
+  tech_experience: Command Line, Database, Web Design
+- date: 9/12/2017 0:46:07
+  student_id: '9104193'
+  languages: Python, R, C, C++
+  best_language: Python, R
+  app_experience: Maths/Statistics Coding
+  tech_experience: Version Control, Database, Regular Expressions
+- date: 9/12/2017 22:39:10
+  student_id: '4168788'
+  languages: Ruby, Javascript, C
+  best_language: Javascript
+  app_experience: Command line Apps, Web Front-end Apps
+  tech_experience: Command Line, Version Control, Web Design, Cloud Platforms
+- date: 9/14/2017 16:16:09
+  student_id: '4423488'
+  languages: Python
+  best_language: Python
+  app_experience: Command line Apps, Desktop GUI Apps, Web Front-end Apps, Web Back-end
+    Apps, Server-side Apps, Mobile Apps, Maths/Statistics Coding
+  tech_experience: Command Line, Version Control, Database, Web Design, Cloud Platforms,
+    Regular Expressions
+- date: 9/15/2017 0:06:40
+  student_id: '7479459'
+  languages: JAVA,Python
+  best_language: JAVA
+  app_experience: Web Back-end Apps, Mobile Apps, Maths/Statistics Coding
+  tech_experience: Command Line, Database, Web Design, Cloud Platforms, Regular Expressions
+- date: 9/18/2017 8:58:39
+  student_id: '6830990'
+  languages: c,ruby
+  best_language: c
+  app_experience: IoT Apps
+  tech_experience: Web Design
+- date: 9/18/2017 9:10:34
+  student_id: '1009639'
+  languages: C, C++, Java, Javascript, Python
+  best_language: Python, Javascript
+  app_experience: Command line Apps, Desktop GUI Apps, Web Front-end Apps, Mobile
+    Apps
+  tech_experience: Command Line, Version Control, Web Design

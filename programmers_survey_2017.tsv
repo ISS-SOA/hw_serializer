@@ -1,0 +1,32 @@
+date	student_id	languages	best_language	app_experience	tech_experience
+8/30/2017 15:40:19	3522933	Java, C#, C++, Python, Javascript, Oz, Racket Lang, Go Lang, Php, Hack lang, Ruby on Rails	Javascript, PHP, Phyton, C#, Java	Command line Apps, Desktop GUI Apps, Web Front-end Apps, Web Back-end Apps, Mobile Apps, Maths/Statistics Coding, Database Driven Apps	Command Line, Version Control, Database, Software Testing, Web Design, Cloud Platforms, Regular Expressions
+8/30/2017 16:19:10	1804923	python, c++, ruby	python, ruby	Command line Apps, Server-side Apps, Maths/Statistics Coding, Database Driven Apps	Command Line, Version Control, Database, Web Design, Cloud Platforms, Regular Expressions
+8/30/2017 16:44:10	2590564	Html, php, JavaScript, python, C, ruby, python , nodejs 	Python , nodejs, JavaScript , html	Web Front-end Apps, Web Back-end Apps, Server-side Apps, Mobile Apps	Command Line, Version Control, Database, Web Design, Cloud Platforms
+8/30/2017 17:00:37	1015278	C, C#, R	R	Command line Apps, Maths/Statistics Coding	Database
+8/30/2017 23:49:49	1756576	Java, PHP, Python, Javascript, VB.Net, C, C++, Ruby	Java, PHP, Python, Javascript, VB.Net, C, C++, Ruby	Command line Apps, Desktop GUI Apps, Web Back-end Apps, Mobile Apps	Command Line, Version Control, Database, Software Testing, Web Design, Cloud Platforms, Regular Expressions
+8/31/2017 2:07:11	4867368	C, C++, R, VBA, 	C++	Maths/Statistics Coding	Database, Web Design, Regular Expressions
+8/31/2017 4:23:58	5435677	Javascript, Python, Java, Swift	Python	Web Front-end Apps, Web Back-end Apps, Server-side Apps, Mobile Apps	Command Line, Version Control, Database, Web Design, Cloud Platforms
+8/31/2017 5:33:28	6844973	c  Java Javascript python swift 	python	Command line Apps, Desktop GUI Apps, Web Back-end Apps, Mobile Apps, Maths/Statistics Coding, IoT Apps	Command Line, Version Control, Web Design, Cloud Platforms
+8/31/2017 16:41:18	8496675	C, Python	C, Python	Command line Apps, Desktop GUI Apps, Mobile Apps, IoT Apps	Command Line, Version Control, Database, Cloud Platforms
+9/3/2017 21:57:07	6289571	Javascript,java,php	javascript	Web Front-end Apps, Web Back-end Apps	Version Control, Database, Web Design
+9/4/2017 11:13:58	8405610	Python, C++, SQL, HTML, CSS,  Javascript	C++, Python	Web Front-end Apps, Maths/Statistics Coding	Database, Web Design
+9/4/2017 15:19:41	7917660	C,C++,Javascript,Java,html,php	C	Web Front-end Apps, Mobile Apps, IoT Apps	Command Line, Version Control, Database, Web Design, Cloud Platforms
+9/4/2017 16:13:13	8063047	C, C++, Python, Java, GO, Swift	C, C++, Python	Command line Apps, Desktop GUI Apps, Web Front-end Apps, Mobile Apps	Command Line, Version Control, Web Design, Cloud Platforms, Regular Expressions
+9/5/2017 14:20:13	368031	Java, C#, Python, Javascript, PHP, C++, Scala, Ruby, 	Python, Javascript, Java, Ruby	Command line Apps, Web Front-end Apps, Web Back-end Apps, Server-side Apps, Maths/Statistics Coding, Database Driven Apps	Command Line, Version Control, Database, Web Design, Cloud Platforms, Regular Expressions
+9/5/2017 15:24:43	7885330	C, C++, Python	C	Maths/Statistics Coding	Web Design
+9/5/2017 16:15:57	9443193	C,php	C	Desktop GUI Apps, Database Driven Apps	Command Line, Database, Web Design
+9/5/2017 19:52:27	7818235	Python, Javascript	Javascript	Command line Apps, Mobile Apps	Web Design
+9/6/2017 0:01:52	3379985	Java, C#, VB, HTML, CSS, Javascript, PHP, Angular	PHP, Javascript	Command line Apps, Desktop GUI Apps, Web Front-end Apps, Web Back-end Apps, Server-side Apps, Database Driven Apps	Command Line, Version Control, Database, Web Design
+9/6/2017 18:13:07	6996686	C, Python, Verilog, Matlab, C++	Matlab	Command line Apps, Mobile Apps	Command Line
+9/6/2017 23:43:51	6068165	Java, Python, C, Javascript, R, C#	Java	Desktop GUI Apps, Web Front-end Apps, Web Back-end Apps, Server-side Apps, Mobile Apps	Command Line, Database, Web Design, Regular Expressions
+9/7/2017 0:39:10	3841460	Java, C#, Python, Javascript, VB, Html	Java	Desktop GUI Apps, Web Front-end Apps, Web Back-end Apps, Server-side Apps, Mobile Apps, Database Driven Apps, IoT Apps	Command Line, Version Control, Database, Web Design, Cloud Platforms, Regular Expressions
+9/7/2017 21:51:06	1916423	java, c	c	Command line Apps	Command Line
+9/10/2017 0:00:25	202130	c, c++, java, python	c, python	Command line Apps, Desktop GUI Apps, Maths/Statistics Coding, IoT Apps	Command Line, Database, Cloud Platforms
+9/10/2017 15:31:27	7610144	java, php	Java	Web Front-end Apps, Web Back-end Apps, Mobile Apps	Database, Web Design
+9/11/2017 20:31:44	5554724	Java, C#, Ruby, C++, SQL, Assembly, HTML, PHP, Python	Ruby	Desktop GUI Apps, Mobile Apps	Command Line, Database, Web Design
+9/12/2017 0:46:07	9104193	Python, R, C, C++	Python, R	Maths/Statistics Coding	Version Control, Database, Regular Expressions
+9/12/2017 22:39:10	4168788	Ruby, Javascript, C	Javascript	Command line Apps, Web Front-end Apps	Command Line, Version Control, Web Design, Cloud Platforms
+9/14/2017 16:16:09	4423488	Python	Python	Command line Apps, Desktop GUI Apps, Web Front-end Apps, Web Back-end Apps, Server-side Apps, Mobile Apps, Maths/Statistics Coding	Command Line, Version Control, Database, Web Design, Cloud Platforms, Regular Expressions
+9/15/2017 0:06:40	7479459	JAVA,Python	JAVA	Web Back-end Apps, Mobile Apps, Maths/Statistics Coding	Command Line, Database, Web Design, Cloud Platforms, Regular Expressions
+9/18/2017 8:58:39	6830990	c,ruby	c	IoT Apps	Web Design
+9/18/2017 9:10:34	1009639	C, C++, Java, Javascript, Python	Python, Javascript	Command line Apps, Desktop GUI Apps, Web Front-end Apps, Mobile Apps	Command Line, Version Control, Web Design
