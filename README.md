@@ -70,3 +70,14 @@ Finished in 0.208241s, 9.6043 runs/s, 9.6043 assertions/s.
 ```
 
 Submit links to the two code files (gist) in the assignment submission form on our class website.
+
+## 4. Coding Practices
+
+Let's put together all the good programming practices that we discussed in class:
+
+- **REPL**: Use `irb`/`pry` to try each step as you are coding
+- **Tests**: continuously test your code as you write it
+- **Idiomatic code**:
+  - “No more for loops!”: use functional idioms for iteration (map/reduce/select/each/etc.)
+  - make sure your code has no `rubocop` violations (ask us about any unusual violations)
+- **Readability**: ask others to review your code or suggest improvements – even publicly on our class Slack!
