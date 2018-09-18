@@ -1,0 +1,207 @@
+---
+- date: 8/28/2018 9:16:25
+  student_id: '4610813.6926434'
+  languages: Java, C#, Swift, JS, Ruby, Python, C++, ...
+  best_language: Java, swift, JS, Ruby
+  app_experience: Command line applications, Desktop GUI applications, Web Front-End
+    Applications, Web Back-End Applications, Server-side Applications, Mobile Applications
+  tech_experience: Object Oriented Programming, Object Oriented Programming - Advanced,
+    Unified Modeling Langauge, Web Design, Database Design, Regular Expressions, Automated
+    Software Tests, Command line, Version Control, Cloud Platforms
+- date: 8/28/2018 9:20:52
+  student_id: '1711211.07079015'
+  languages: Java, Python
+  best_language: Java, Python
+  app_experience: Web Back-End Applications, Mobile Applications, Firmware
+  tech_experience: Object Oriented Programming, Web Design, Database Design, Command
+    line, Cloud Platforms
+- date: 8/28/2018 9:36:47
+  student_id: '6417842.05043334'
+  languages: c++, python, ruby, javascript
+  best_language: python
+  app_experience: Web Back-End Applications, Maths/Statistics/Data Science Coding,
+    Database Driven Applications
+  tech_experience: Object Oriented Programming, Web Design, Database Design, Regular
+    Expressions, Cloud Platforms
+- date: 8/28/2018 10:01:13
+  student_id: '9295127.48038641'
+  languages: 'HTML+CSS '
+  best_language: 'HTML+CSS '
+  app_experience: Web Front-End Applications
+  tech_experience: Web Design
+- date: 8/28/2018 12:58:06
+  student_id: '7544264.63808746'
+  languages: BASIC, Pascal, APL, C, JavaScript, Python, PHP
+  best_language: PHP
+  app_experience: Command line applications, Web Back-End Applications, Mobile Applications,
+    Maths/Statistics/Data Science Coding, Firmware
+  tech_experience: Object Oriented Programming, Web Design, Regular Expressions, Command
+    line
+- date: 8/28/2018 13:24:33
+  student_id: '2935440.76601313'
+  languages: Java, Python, C++, C, PHP
+  best_language: Java
+  app_experience: Command line applications, Server-side Applications, Mobile Applications,
+    Database Driven Applications
+  tech_experience: Object Oriented Programming, Database Design, Command line, Version
+    Control, Cloud Platforms
+- date: 8/28/2018 13:53:04
+  student_id: '2165265.78946818'
+  languages: C, C++, C#, Java, Python, Javascript, HTML, CSS, React Native, Verilog
+  best_language: C++, Python
+  app_experience: Command line applications, Desktop GUI applications, Web Front-End
+    Applications, Web Back-End Applications, Mobile Applications, Maths/Statistics/Data
+    Science Coding, Firmware
+  tech_experience: Object Oriented Programming, Unified Modeling Langauge, Web Design,
+    Database Design, Automated Software Tests, Command line, Version Control
+- date: 8/28/2018 14:11:18
+  student_id: '4110278.04871959'
+  languages: C, Java, Python
+  best_language: C, Python
+  app_experience: Command line applications, Desktop GUI applications, Web Front-End
+    Applications, Mobile Applications
+  tech_experience: Object Oriented Programming, Web Design, Regular Expressions, Automated
+    Software Tests, Command line, Version Control
+- date: 8/28/2018 22:04:37
+  student_id: '3034482.11706877'
+  languages: Java, JavaScript, PHP, Python, C#
+  best_language: Java
+  app_experience: Command line applications, Desktop GUI applications, Web Front-End
+    Applications, Web Back-End Applications, Mobile Applications, Database Driven
+    Applications
+  tech_experience: Object Oriented Programming, Unified Modeling Langauge, Web Design,
+    Database Design, Command line
+- date: 8/29/2018 9:17:23
+  student_id: '1066726.52581633'
+  languages: C#, Javascript, Python
+  best_language: C#, Javascript
+  app_experience: Web Front-End Applications, Firmware
+  tech_experience: Web Design, Command line, Version Control
+- date: 8/29/2018 17:39:53
+  student_id: '1134495.93000487'
+  languages: C, R, Python, Javascript
+  best_language: R, Javascript
+  app_experience: Web Back-End Applications, Maths/Statistics/Data Science Coding
+  tech_experience: Object Oriented Programming, Web Design, Cloud Platforms
+- date: 8/30/2018 13:19:53
+  student_id: '9956865.19253463'
+  languages: Python, C, javascript, java
+  best_language: Python
+  app_experience: Desktop GUI applications, Web Front-End Applications, Mobile Applications,
+    Maths/Statistics/Data Science Coding, IoT Software
+  tech_experience: Object Oriented Programming, Web Design, Command line, Version
+    Control
+- date: 8/31/2018 23:12:25
+  student_id: '8461864.79019444'
+  languages: C, java, verilog
+  best_language: C, java
+  app_experience: Command line applications, Firmware
+  tech_experience: Object Oriented Programming
+- date: 9/1/2018 14:20:48
+  student_id: '1124343.87688078'
+  languages: Java, C#, Javascript, R
+  best_language: C#
+  app_experience: Web Front-End Applications, Web Back-End Applications, Maths/Statistics/Data
+    Science Coding
+  tech_experience: Object Oriented Programming, Object Oriented Programming - Advanced,
+    Unified Modeling Langauge, Web Design, Database Design, Regular Expressions, Cloud
+    Platforms
+- date: 9/3/2018 10:01:50
+  student_id: '1844879.76571723'
+  languages: Python, Ruby, Java, C++
+  best_language: Python
+  app_experience: Web Back-End Applications
+  tech_experience: Object Oriented Programming, Web Design, Regular Expressions, Command
+    line, Version Control, Cloud Platforms
+- date: 9/3/2018 14:48:01
+  student_id: '6092389.61520995'
+  languages: Python, R
+  best_language: Python
+  app_experience: Maths/Statistics/Data Science Coding
+  tech_experience: Object Oriented Programming, Web Design, Regular Expressions, Command
+    line, Version Control
+- date: 9/3/2018 20:07:51
+  student_id: '4110531.7521366'
+  languages: 'Python, R '
+  best_language: R
+  app_experience: Maths/Statistics/Data Science Coding
+  tech_experience: Regular Expressions
+- date: 9/4/2018 7:32:51
+  student_id: '9690401.97431533'
+  languages: C
+  best_language: C
+  app_experience: not really creat
+  tech_experience: Cloud Platforms
+- date: 9/4/2018 17:30:36
+  student_id: '8963887.8005753'
+  languages: 'VB, C '
+  best_language: C
+  app_experience: Maths/Statistics/Data Science Coding
+  tech_experience: Object Oriented Programming
+- date: 9/4/2018 17:57:19
+  student_id: '8923540.6235649'
+  languages: Python,R,Javascript
+  best_language: Python,R
+  app_experience: Maths/Statistics/Data Science Coding
+  tech_experience: Object Oriented Programming, Cloud Platforms
+- date: 9/4/2018 18:30:08
+  student_id: '9981934.70357296'
+  languages: Java, C++, Javascript
+  best_language: Java
+  app_experience: Web Front-End Applications, Mobile Applications
+  tech_experience: Object Oriented Programming, Web Design, Command line
+- date: 9/6/2018 0:19:15
+  student_id: '8805827.69888302'
+  languages: JAVA,C,C++
+  best_language: JAVA
+  app_experience: Mobile Applications, IoT Software, Firmware
+  tech_experience: Object Oriented Programming, Unified Modeling Langauge, Command
+    line
+- date: 9/9/2018 20:36:46
+  student_id: '5888552.14838213'
+  languages: Python, JavaScript, Ruby
+  best_language: Python
+  app_experience: Web Front-End Applications, Web Back-End Applications, Maths/Statistics/Data
+    Science Coding, Database Driven Applications
+  tech_experience: Object Oriented Programming, Unified Modeling Langauge, Web Design,
+    Database Design, Regular Expressions, Version Control, Cloud Platforms
+- date: 9/10/2018 13:44:10
+  student_id: '7449653.08464722'
+  languages: c c++ python javascript html css java
+  best_language: 'c c++ python '
+  app_experience: Web Front-End Applications, Web Back-End Applications, Server-side
+    Applications
+  tech_experience: Object Oriented Programming, Web Design, Database Design, Version
+    Control
+- date: 9/11/2018 17:08:12
+  student_id: '5344846.41173815'
+  languages: C++, Ruby, Python
+  best_language: C++, Ruby
+  app_experience: Command line applications, Desktop GUI applications, Web Front-End
+    Applications, Mobile Applications
+  tech_experience: Object Oriented Programming, Web Design, Command line, Version
+    Control, Cloud Platforms
+- date: 9/12/2018 13:15:00
+  student_id: '1600912.2592475'
+  languages: Java, C++, Python, Javascript, R, Swift, Scala,
+  best_language: Python, R
+  app_experience: Web Front-End Applications, Server-side Applications, Maths/Statistics/Data
+    Science Coding
+  tech_experience: Object Oriented Programming, Object Oriented Programming - Advanced,
+    Unified Modeling Langauge, Web Design, Database Design, Regular Expressions, Command
+    line, Version Control
+- date: 9/12/2018 22:47:00
+  student_id: '3442792.01753766'
+  languages: R, HTML, CSS, Javascript, PHP, SQL, Python, C
+  best_language: R, HTML
+  app_experience: Web Front-End Applications, Web Back-End Applications, Maths/Statistics/Data
+    Science Coding
+  tech_experience: Object Oriented Programming, Web Design, Database Design, Regular
+    Expressions, Command line
+- date: 9/13/2018 16:39:08
+  student_id: '5241616.35381673'
+  languages: 'R, Python, sql, php, html '
+  best_language: R, python, sql
+  app_experience: Web Front-End Applications, Web Back-End Applications, Maths/Statistics/Data
+    Science Coding, Database Driven Applications
+  tech_experience: Web Design, Database Design, Regular Expressions, Command line
