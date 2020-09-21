@@ -2,11 +2,11 @@
 
 ## Download files
 
-Download all the files in this repository using the green 'Clone or download' button on Github. You may download the whole repo as a ZIP file and then unzip it in your working directory.
+Download all the files in this repository using the green 'Clone or download' button on Github. You may download the whole repo as a ZIP file and then unzip it in your working directory. *Do NOT fork this repo".
 
 **Assignment:**
 
-You will write two small ruby applications in this assignment. First, write a command-line application that converts a spreadsheet of students programming skills from a TSV (tab separated columns) file format into a YAML file. Second, write another command-line application that converts a YAML file back into a TSV file. Take a look at the files called `programmers_survey_[year].*` to see examples of these two file formats. Please read *all* the following instructions before starting.
+You will write two small ruby applications in this assignment. First, write a command-line application that converts a spreadsheet of students programming skills from a TSV (tab separated columns) file format into a YAML file. Second, write another command-line application that converts a YAML file back into a TSV file. Take a look at the files called `programmers_survey_*.*` to see examples of these two file formats. Please read *all* the following instructions before starting.
 
 ## 1. Coding Practices
 
@@ -27,7 +27,8 @@ Let's put together all the good programming practices that we discussed in class
 Before beginning, take a look at the test file that you are given: `serializer_spec.rb`
 
 Setup our testing framework by running the following commands from the command line, in the directory with all the files:
-```
+
+```sh
 $ bundle install
 (only need to run this once; bundle should report success)
 
@@ -37,7 +38,8 @@ $ ruby serializer_spec.rb
 
 While you are coding, remember to keep running `ruby serializer_spec.rb` on the command line to see if tests are passing.
 
-## 3. TSV to YAML:
+## 3. TSV to YAML
+
 Create a ruby command-line application: `tsv_to_yml.rb`
 
 This file should have a script that converts a TSV file into a YAML file. Your YAML output should be saved into a YAML file of the user's choosing.
@@ -52,7 +54,8 @@ You can access command line parameters from your Ruby code using the `ARGV` arra
 If the user does not supply an output filename, please print output to screen.
 
 If you have done this correctly, each student in your output should look something like:
-```
+
+```yaml
 - date: 8/30/2017 15:40:19
   student_id: '3522933'
   languages: Java, C#, C++, Python, Javascript, Oz, Racket Lang, Go Lang, Php, Hack
@@ -64,9 +67,10 @@ If you have done this correctly, each student in your output should look somethi
     Design, Cloud Platforms, Regular Expressions
 ```
 
-You must submit `tsv_to_yml.rb` as a Gist URL (use your Github account on https://gist.github.com).
+You must submit `tsv_to_yml.rb` as a Gist URL (use your Github account on <https://gist.github.com>).
 
-## 4. YAML to TSV:
+## 4. YAML to TSV
+
 Create a ruby command-line application: `yml_to_tsv.rb`
 
 This file should have a script converts a YAML skills file into a TSV file. You would run it like this:
@@ -75,4 +79,4 @@ This file should have a script converts a YAML skills file into a TSV file. You 
 
 Your generated TSV file should have the correct header information in the top row, and should be identical to the corresponding TSV file we've provided.
 
-You must submit `yml_to_tsv.rb` as a Gist URL (use your Github account on https://gist.github.com).
+You must submit `yml_to_tsv.rb` as a Gist URL (use your Github account on <https://gist.github.com>).

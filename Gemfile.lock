@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    minitest (5.9.0)
+    minitest (5.14.2)
 
 PLATFORMS
   ruby
@@ -10,4 +10,4 @@ DEPENDENCIES
   minitest
 
 BUNDLED WITH
-   1.12.2
+   2.1.4
