@@ -6,7 +6,7 @@ Download all the files in this repository using the green 'Clone or download' bu
 
 **Assignment:**
 
-You will write two small ruby applications in this assignment. First, write a command-line application that converts a spreadsheet of students programming skills from a TSV (tab separated columns) file format into a YAML file. Second, write another command-line application that converts a YAML file back into a TSV file. Take a look at the files called `programmers_survey_*.*` to see examples of these two file formats. Please read *all* the following instructions before starting.
+You will write two small ruby applications in this assignment. First, write a command-line application that converts a spreadsheet of students programming skills from a TSV (tab separated columns) file format into a YAML file. Second, write another command-line application that converts a YAML file back into a TSV file. Take a look at the files called `surveys/programmers_survey_*.*` to see examples of these two file formats. Please read *all* the following instructions before starting.
 
 ## 1. Coding Practices
 
@@ -14,13 +14,15 @@ Let's put together all the good programming practices that we discussed in class
 
 - **Tests**:
   - Continuously test your code as you write it
-  - First write code to pass all tests
-  - Only work on improving your code after you've passed all tests
+  - First write code to pass all tests (shameless green)
+  - Only refactor after you've passed all tests
 - **REPL**: Use `irb`/`pry` to try each step as you are coding
 - **Idiomatic code**:
   - “No more for loops!”: use functional idioms for iteration (map/reduce/select/each/etc.)
   - Make sure your code has no `rubocop` violations (ask us about any unusual violations)
-- **Readability**: ask others to review your code or suggest improvements – even publicly on our class Slack!
+- **Readability**:
+  - Run `flog` on your code to see if it is too complex
+  - Ask classmates to review your code on our class Slack!
 
 ## 2. Testing
 
@@ -75,7 +77,7 @@ Create a ruby command-line application: `yml_to_tsv.rb`
 
 This file should have a script converts a YAML skills file into a TSV file. You would run it like this:
 
-`$  ruby yml_to_tsv.rb programmers_survey_2017.yml outfile.tsv`
+`$  ruby yml_to_tsv.rb programmers_survey_2020.yml outfile.tsv`
 
 Your generated TSV file should have the correct header information in the top row, and should be identical to the corresponding TSV file we've provided.
 
