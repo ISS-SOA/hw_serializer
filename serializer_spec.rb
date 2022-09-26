@@ -3,10 +3,10 @@
 require 'minitest/autorun'
 require 'yaml'
 
-TSV_INFILE  = 'surveys/programmers_survey_2021.tsv'
-YML_INFILE  = 'surveys/programmers_survey_2021.yml'
-TSV_OUTFILE = 'programmers_survey_2021.tsv2'
-YML_OUTFILE = 'programmers_survey_2021.yml2'
+TSV_INFILE  = 'surveys/programmers_survey_2022.tsv'
+YML_INFILE  = 'surveys/programmers_survey_2022.yml'
+TSV_OUTFILE = 'programmers_survey_2022.tsv2'
+YML_OUTFILE = 'programmers_survey_2022.yml2'
 
 TSV_DATA = File.read(TSV_INFILE).split("\n")
 YML_DATA = YAML.safe_load(File.read(YML_INFILE))
