@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require 'minitest/rg'
 require 'minitest/autorun'
 require 'yaml'
 
