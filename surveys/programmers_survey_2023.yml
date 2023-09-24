@@ -1,0 +1,117 @@
+---
+- date: 9/9/2023 12:59:59
+  student_id: '112164502'
+  languages: Python, Java
+  best_language: Python
+  app_experience: Web Back-End Server, Maths/Statistics/Data Science Coding
+  tech_experience: "Basic Object-Oriented Programming (Classes, Inheritance, etc.), Web Design (HTML+CSS),
+    Regular Expressions (e.g: /\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,4}\b/ )"
+- date: 9/9/2023 22:03:09
+  student_id: '112078516'
+  languages: Java, Python, Javascript, HTML
+  best_language: Python
+  app_experience: Command line scripts, Desktop GUI applications, Web Front-End (Javascript),
+    Maths/Statistics/Data Science Coding
+  tech_experience: "Basic Object-Oriented Programming (Classes, Inheritance, etc.), Web Design (HTML+CSS),
+    Command line (Linux terminal, Mac OSX terminal, PowerShell, etc.)"
+- date: 9/9/2023 23:56:01
+  student_id: '112078508'
+  languages: C++,C, Python, Javascript,R
+  best_language: 'python '
+  app_experience: Command line scripts, Desktop GUI applications, Web Front-End (Javascript),
+    Web Back-End Server, Database Driven Applications
+  tech_experience: "Basic Object-Oriented Programming (Classes, Inheritance, etc.), Web Design (HTML+CSS),
+    Database Design (Entity-Relationship Diagrams, 3rd Normal Form, etc.), Regular
+    Expressions (e.g: /\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,4}\b/ ), Version Control
+    (Git, SVN, Mercurial, etc.), Cloud Platforms (Heroku, Google App Engine, Amazon
+    EC2/Beanstalk, IBM BlueMix, etc.)"
+- date: 9/10/2023 3:16:10
+  student_id: '112078509'
+  languages: C,C++, Python, R
+  best_language: Python, R
+  app_experience: Command line scripts, Desktop GUI applications, Mobile Applications,
+    Maths/Statistics/Data Science Coding
+  tech_experience: "Basic Object-Oriented Programming (Classes, Inheritance, etc.), Command line
+    (Linux terminal, Mac OSX terminal, PowerShell, etc.)"
+- date: 9/10/2023 14:20:20
+  student_id: '112078502'
+  languages: Javascript/ Python
+  best_language: for web dev, Javascript (Node js)
+  app_experience: Command line scripts, Web Front-End (Javascript), Web Back-End Server
+  tech_experience: "Web Design (HTML+CSS), Command line (Linux terminal, Mac OSX terminal, PowerShell,
+    etc.), Version Control (Git, SVN, Mercurial, etc.)"
+- date: 9/10/2023 21:12:19
+  student_id: '111065532'
+  languages: Java, C#, Python, Javascript
+  best_language: Python
+  app_experience: Web Back-End Server, Maths/Statistics/Data Science Coding
+  tech_experience: "Basic Object-Oriented Programming (Classes, Inheritance, etc.), Web Design (HTML+CSS),
+    Database Design (Entity-Relationship Diagrams, 3rd Normal Form, etc.), Regular
+    Expressions (e.g: /\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,4}\b/ ), Command line
+    (Linux terminal, Mac OSX terminal, PowerShell, etc.), Version Control (Git, SVN,
+    Mercurial, etc.), Containerization (Docker, Kubernetes, etc.)"
+- date: 9/10/2023 22:33:46
+  student_id: '112078517'
+  languages: Python, Java, C, C++, C#, Javascript, HTML, CSS, PHP, SQL
+  best_language: Python
+  app_experience: Desktop GUI applications, Web Front-End (Javascript), Web Back-End
+    Server, Mobile Applications, Database Driven Applications, Firmware (including
+    Raspberry Pi, etc.)
+  tech_experience: "Basic Object-Oriented Programming (Classes, Inheritance, etc.), Web Design (HTML+CSS),
+    Database Design (Entity-Relationship Diagrams, 3rd Normal Form, etc.), Command
+    line (Linux terminal, Mac OSX terminal, PowerShell, etc.)"
+- date: 9/10/2023 23:00:43
+  student_id: '111078703'
+  languages: python, R, Javascript, php, java, ruby
+  best_language: R, ruby
+  app_experience: Web Front-End (Javascript), Web Back-End Server, Mobile Applications
+  tech_experience: "Basic Object-Oriented Programming (Classes, Inheritance, etc.), Web Design (HTML+CSS),
+    Database Design (Entity-Relationship Diagrams, 3rd Normal Form, etc.), Regular
+    Expressions (e.g: /\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,4}\b/ ), Automated
+    Software Tests (Unit Tests, TDD, BDD, etc.), Command line (Linux terminal, Mac
+    OSX terminal, PowerShell, etc.), Version Control (Git, SVN, Mercurial, etc.),
+    Cloud Platforms (Heroku, Google App Engine, Amazon EC2/Beanstalk, IBM BlueMix,
+    etc.)"
+- date: 9/10/2023 23:16:56
+  student_id: '112078503'
+  languages: c,c++,python,sql,php
+  best_language: python
+  app_experience: I have not created any of the above
+  tech_experience: "Basic Object-Oriented Programming (Classes, Inheritance, etc.), Web Design (HTML+CSS)"
+- date: 9/11/2023 1:25:24
+  student_id: '112078510'
+  languages: Javascript, C#, SQL, Python
+  best_language: Javascript
+  app_experience: Web Front-End (Javascript), Database Driven Applications, Maths/Statistics/Data
+    Science Coding
+  tech_experience: "Basic Object-Oriented Programming (Classes, Inheritance, etc.), Web Design (HTML+CSS),
+    Database Design (Entity-Relationship Diagrams, 3rd Normal Form, etc.), Regular
+    Expressions (e.g: /\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,4}\b/ )"
+- date: 9/11/2023 13:38:38
+  student_id: '111062696'
+  languages: Python,Javascript,Golang,C
+  best_language: Python,Golang
+  app_experience: Web Front-End (Javascript), Web Back-End Server, Mobile Applications
+  tech_experience: "Basic Object-Oriented Programming (Classes, Inheritance, etc.), Web Design (HTML+CSS),
+    Command line (Linux terminal, Mac OSX terminal, PowerShell, etc.), Cloud Platforms
+    (Heroku, Google App Engine, Amazon EC2/Beanstalk, IBM BlueMix, etc.), Containerization
+    (Docker, Kubernetes, etc.)"
+- date: 9/12/2023 16:12:38
+  student_id: '111065431'
+  languages: Python, Ruby, Groovy, Javascript, C++
+  best_language: Python
+  app_experience: Command line scripts, Web Back-End Server, Server-side Applications
+    (other than Web back-end), Database Driven Applications
+  tech_experience: "Basic Object-Oriented Programming (Classes, Inheritance, etc.), Web Design (HTML+CSS),
+    Regular Expressions (e.g: /\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,4}\b/ ), Command
+    line (Linux terminal, Mac OSX terminal, PowerShell, etc.), Version Control (Git,
+    SVN, Mercurial, etc.), Cloud Platforms (Heroku, Google App Engine, Amazon EC2/Beanstalk,
+    IBM BlueMix, etc.), Containerization (Docker, Kubernetes, etc.)"
+- date: 9/19/2023 12:02:59
+  student_id: '111003816'
+  languages: Python
+  best_language: Python (focus on thinking that what data transoformed and what you
+    need it becomes)
+  app_experience: a database of judgement with ML/DL helped.
+  tech_experience: Basic Object-Oriented Programming (Classes, Inheritance, etc.), Containerization
+    (Docker, Kubernetes, etc.)
