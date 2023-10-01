@@ -88,3 +88,15 @@ You would run it like this:
 Your generated TSV file should have the correct header information in the top row, and should be identical to the corresponding TSV file we've provided.
 
 You must submit `yml_to_tsv.rb` as a Gist URL (use your Github account on <https://gist.github.com>).
+
+## 5. Error Checking
+
+Try to ensure that you have handled some basic errors that might occur
+when others run your scripts:
+
+- Input file could not be found
+- Input file could not be parsed properly (Yaml or TSV format incorrect)
+- Output file already exists (and you do not want to overwrite it)
+- Could not save to the output file (some system level error)
+
+You can use `if-else` logic or `rescue` blocks to detect errors. If you catch one of these errors, you may print and error message and exit.
