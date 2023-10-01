@@ -16,7 +16,7 @@ YML_DATA = YAML.safe_load(File.read(YML_INFILE))
 describe 'Serializer specs' do
   describe 'Test conversion from TSV to Yaml' do
     before do
-      `ruby tsv_to_yml.rb #{TSV_INFILE} #{YML_OUTFILE}`
+      system("ruby tsv_to_yml.rb #{TSV_INFILE} #{YML_OUTFILE}")
       @yml_output = YAML.safe_load(File.read(YML_OUTFILE))
     end
 
@@ -37,7 +37,7 @@ describe 'Serializer specs' do
 
   describe 'Test conversion from Yaml to TSV' do
     before do
-      `ruby yml_to_tsv.rb #{YML_INFILE} #{TSV_OUTFILE}`
+      system("ruby yml_to_tsv.rb #{YML_INFILE} #{TSV_OUTFILE}")
       @tsv_output = File.read(TSV_OUTFILE).split("\n")
     end
 
