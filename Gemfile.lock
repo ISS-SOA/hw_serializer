@@ -20,7 +20,8 @@ GEM
     racc (1.7.1)
     rainbow (3.1.1)
     regexp_parser (2.8.1)
-    rexml (3.2.6)
+    rexml (3.3.3)
+      strscan
     rubocop (1.56.3)
       base64 (~> 0.1.1)
       json (~> 2.3)
@@ -39,11 +40,13 @@ GEM
     ruby_parser (3.20.3)
       sexp_processor (~> 4.16)
     sexp_processor (4.17.0)
+    strscan (3.1.0)
     unicode-display_width (2.4.2)
 
 PLATFORMS
   arm64-darwin-21
   arm64-darwin-22
+  x86_64-linux
 
 DEPENDENCIES
   flog
