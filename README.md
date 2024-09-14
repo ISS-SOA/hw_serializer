@@ -1,6 +1,6 @@
 # Serialization Showdown
 
-## Download files
+## 1. Download files
 
 Download all the files in this repository using the green 'Clone or download' button on Github. You may download the whole repo as a ZIP file and then unzip it in your working directory. **Do NOT fork this repo**.
 
@@ -8,7 +8,7 @@ Download all the files in this repository using the green 'Clone or download' bu
 
 You will write two small ruby applications in this assignment. First, write a command-line application that converts a spreadsheet of students programming skills from a TSV (tab separated columns) file format into a YAML file. Second, write another command-line application that converts a YAML file back into a TSV file. Take a look at the files called `surveys/programmers_survey_*.*` to see examples of these two file formats. Please read *all* the following instructions before starting.
 
-## 1. Coding Practices
+## 2. Coding Best Practices
 
 Let's put together all the good programming practices that we discussed in class to do this assignment.
 
@@ -16,7 +16,7 @@ Let's put together all the good programming practices that we discussed in class
   - Continuously test your code as you write it
   - First write code to pass all tests (shameless green)
   - Only refactor after you've passed all tests
-- **REPL**: Use `irb`/`pry` to try each step as you are coding
+- **REPL**: Use `irb` or `pry` to try each step as you are coding
 - **Idiomatic code**:
   - “No more for loops!”: use functional idioms for iteration (map/reduce/select/each/etc.)
   - Make sure your code has no `rubocop` violations (ask us about any unusual violations)
@@ -26,7 +26,7 @@ Let's put together all the good programming practices that we discussed in class
 
 - **Experience**: Ask classmates to review your code! Remember that it is fine to share your assignment code on our discussion channels.
 
-## 2. Testing
+## 3. Testing
 
 Before beginning, take a look at the test file that you are given: `serializer_spec.rb`
 
@@ -34,13 +34,13 @@ Setup our testing framework by running the following commands from the command l
 
 ```sh
 $ rbenv local [version]
-(set the latest version of ruby for your project)
+# (set the latest version of ruby for your project)
 
 $ bundle install
-(only need to run this once; bundle should report success)
+# (only need to run this once; bundle should report success)
 
 $ ruby serializer_spec.rb
-(all tests should fail or produce errors before you've written any code)
+# (all tests should fail or produce errors before you've written any code)
 ```
 
 While you are coding, remember to keep running `ruby serializer_spec.rb` on the command line to see if tests are passing.
@@ -49,7 +49,7 @@ While you are coding, remember to keep running `ruby serializer_spec.rb` on the 
 
 Create a ruby command-line application: `tsv_to_yml.rb`
 
-This file should have a script that converts a TSV file into a YAML file. You may use the `yaml` gem to produce the parsed output. Your YAML output should be saved into a YAML file of the user's choosing.
+This file should have a script that converts a TSV file into a YAML file. **You should use the `yaml` gem** to produce the parsed output. Your YAML output should be saved into a YAML file of the user's choosing.
 
 Let your Ruby program take two parameters from command line: the name of input and output files. You would run it like this:
 
