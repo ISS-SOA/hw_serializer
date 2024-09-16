@@ -5,19 +5,19 @@ require 'minitest/unit' # see: https://github.com/minitest/minitest-rg/issues/17
 require 'minitest/rg'
 require 'yaml'
 
-TSV_INFILE  = 'surveys/programmers_survey_2023.tsv'
-YML_INFILE  = 'surveys/programmers_survey_2023.yml'
-TSV_OUTFILE = 'programmers_survey_2023.tsv2'
-YML_OUTFILE = 'programmers_survey_2023.yml2'
+TSV_INFILE  = 'surveys/example_23.tsv'
+YML_INFILE  = 'surveys/example_23.yml'
+TSV_OUTFILE = 'example_23.tsv2'
+YML_OUTFILE = 'example_23.yml2'
 
 TSV_DATA = File.read(TSV_INFILE).split("\n")
-YML_DATA = YAML.safe_load(File.read(YML_INFILE))
+YML_DATA = YAML.safe_load_file(YML_INFILE)
 
 describe 'Serializer specs' do
   describe 'Test conversion from TSV to Yaml' do
     before do
       system("ruby tsv_to_yml.rb #{TSV_INFILE} #{YML_OUTFILE}")
-      @yml_output = YAML.safe_load(File.read(YML_OUTFILE))
+      @yml_output = YAML.safe_load_file(YML_OUTFILE)
     end
 
     it 'should match the first record' do
