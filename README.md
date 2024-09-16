@@ -53,7 +53,7 @@ This file should have a script that converts a TSV file into a YAML file. **You 
 
 Let your Ruby program take two parameters from command line: the name of input and output files. You would run it like this:
 
-`$  ruby tsv_to_yml.rb surveys/programmers_survey_2022.tsv outfile.yml`
+`$  ruby tsv_to_yml.rb surveys/example_23.tsv outfile.yml`
 
 You can access command line parameters from your Ruby code using the `ARGV` array (`ARGV[0]`, `ARGV[1]`).
 
@@ -83,7 +83,7 @@ This file should have a script converts a YAML skills file into a TSV file. **Do
 
 You would run it like this:
 
-`$  ruby yml_to_tsv.rb surveys/programmers_survey_2022.yml outfile.tsv`
+`$  ruby yml_to_tsv.rb surveys/example_23.yml outfile.tsv`
 
 Your generated TSV file should have the correct header information in the top row, and should be identical to the corresponding TSV file we've provided.
 
